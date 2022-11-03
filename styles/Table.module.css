@@ -1,0 +1,9 @@
+.tbody button {
+  outline: none;
+  border: none;
+  background-color: rgb(124, 125, 207);
+  color: #ffffff;
+  padding: 8px 25px;
+  border-radius: 20px;
+  cursor: pointer;
+}

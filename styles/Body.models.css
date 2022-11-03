@@ -1,0 +1,11 @@
+.information-section {
+    /* border: 2px solid orange; */
+    border: 2px solid var(--dark-main);
+    border-bottom-color: white;
+    height: max-content;
+    justify-content: center;
+    padding: 0.5rem;
+    background-color: var(--dark-main);
+    display: flex;
+    color: white;
+  }

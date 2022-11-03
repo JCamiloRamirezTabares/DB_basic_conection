@@ -1,0 +1,60 @@
+  .block, .label {
+    border: #7C7DCF solid 1px;
+  }
+  
+  .header {
+    display: flex;
+    height: 60px;
+    background-color: #7C7DCF;
+  }
+
+  .main{
+    display: flex;
+    height: 850px;
+    background-color: #9D9AE3;
+  }
+
+  .main div {
+    margin: auto;
+    padding: 20px 20px 20px 35px;
+    background-color: #9DA8FA;
+  }
+
+  .table{
+    margin: auto;
+    width: 400px;
+    height: 475px;
+    overflow: scroll;
+  }
+
+  .info{
+    width: 900px;
+    height: 475px;
+    margin: 0px 20px 0px 0px;
+  }
+
+  .right {
+    margin-right: auto;
+    padding: auto;
+  }
+
+  .label{
+    color: white;
+    display: flex;
+  }
+
+  .imag{
+    padding: 5px 5px 5px 10px;
+  }
+
+  .participantItem{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    margin-right: 10px;
+    box-shadow: 0px 5px 50px rgba(32, 35, 41, 0.15);
+    border-radius: 0px 50px 50px 0px;
+    width: 90%;
+  }

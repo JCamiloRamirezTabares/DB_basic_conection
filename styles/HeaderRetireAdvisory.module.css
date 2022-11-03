@@ -1,0 +1,69 @@
+.header{
+    display: flex;
+    height: 70px;
+    background-color: #11A26A;
+}
+
+.button_volver_section{
+    padding: 10px;
+    height: 100%;
+    width: 50%;
+}
+
+.volver_button{
+    background-color: transparent;
+    border: 2px solid black;
+    font-size: 12px;
+    font-weight: bold;
+    width: 100px;
+    height: 30px;
+}
+
+.profile_content_section{
+    display: flex;
+    justify-content: right;
+    width: 50%;
+    padding: 10px;
+}
+
+.nombre_codigo_section{
+    display: inline-block;
+    height: 100%;
+    align-items: right;
+    text-align: right;
+
+}
+
+.nombre_section{
+    width: 150px;
+    height: 23px;
+    border: 2px solid black;
+    text-align: center;
+    background-color: #fff;
+}
+
+.codigo_section{
+    width: 150px;
+    height: 23px;
+    border: 2px solid black;
+    text-align: center;
+    align-items: center;
+    background-color: #fff;
+
+}
+
+.nombre_paragraph{
+    margin-block-start: auto;
+    margin-block-end: auto;
+}
+
+.codigo_paragraph{
+    margin-block-start: auto;
+    margin-block-end: auto;
+}
+
+.profile_photo_section{
+    border: 2px solid black;
+    height: 50px;
+    width: 50px;
+}
